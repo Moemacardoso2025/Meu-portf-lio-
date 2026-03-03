@@ -3,7 +3,7 @@
 
 body {
     background: linear-gradient(135deg, #0f0c29, #302b63, #24243e); 
-    background-image: url(img/cyber-circuit-future-technology-concept-background_42077-6920.avif);
+    background-image: url(cyber-circuit-future-technology-concept-background_42077-6920.avif);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -162,4 +162,5 @@ li:hover {
     0% { box-shadow: 0 0 0 0 rgba(0, 210, 255, 0.7); }
     70% { box-shadow: 0 0 0 10px rgba(0, 210, 255, 0); }
     100% { box-shadow: 0 0 0 0 rgba(0, 210, 255, 0); }
+
 }
